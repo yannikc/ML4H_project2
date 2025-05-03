@@ -17,5 +17,5 @@ pip install -r requirements.txt
 
 
 ## References
-[1] \
-[2]
+[1] Lundberg, S. M., & Lee, S.-I. (2017). [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874). In *Advances in Neural Information Processing Systems 30 (NIPS 2017)*.\
+[2] Agarwal, R., Melnick, L., Frosst, N., Zhang, X., Lengerich, B., Caruana, R., & Hinton, G. (2021). [Neural Additive Models: Interpretable Machine Learning with Neural Nets](https://arxiv.org/abs/2004.13912). In *Advances in Neural Information Processing Systems 34 (NeurIPS 2021)*. 
